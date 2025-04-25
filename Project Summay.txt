@@ -1,0 +1,23 @@
+✅ Project Summary
+📌 Title: Weather Forecast Web App
+🛠️ Tools Used: Python, Streamlit, OpenWeatherMap API, requests, JSON
+🌐 Functionality:
+
+User inputs any city name.
+
+App fetches real-time weather data using OpenWeatherMap API.
+
+Displays:
+
+Temperature
+
+Weather description
+
+Humidity
+
+Wind Speed
+
+Pressure
+
+Feels like temperature
+
